@@ -37,3 +37,10 @@
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lpbXFnaTdjN2J4NTZoZzQxdnNsMmx4ZHh6cmJpcHIzcm0zMnZ0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pqFbHWj0vRqmY/giphy.gif"  />
 
 ###
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ccaiosantos&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+###
