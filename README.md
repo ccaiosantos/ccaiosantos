@@ -8,6 +8,10 @@
 
 ###
 
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lpbXFnaTdjN2J4NTZoZzQxdnNsMmx4ZHh6cmJpcHIzcm0zMnZ0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pqFbHWj0vRqmY/giphy.gif"  />
+
+###
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href=" https://www.instagram.com/c_caiosantos?igsh=MTQ4eTUxbm80ZWVieg==" target="_blank">
@@ -31,11 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lpbXFnaTdjN2J4NTZoZzQxdnNsMmx4ZHh6cmJpcHIzcm0zMnZ0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pqFbHWj0vRqmY/giphy.gif"  />
-
 ###
 
 ## Github Stats  
