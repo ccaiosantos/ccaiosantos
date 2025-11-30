@@ -54,6 +54,15 @@ Me chamo Caio Gabriel Medeiros dos Santos, tenho 19 anos e sou natural de Recife
 />
 <img 
     align="left" 
+    alt="Spring Boot" 
+    title="Spring Boot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
@@ -91,14 +100,14 @@ Me chamo Caio Gabriel Medeiros dos Santos, tenho 19 anos e sou natural de Recife
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ccaiosantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ccaiosantos&show_icons=true&theme=vue-dark" 
 />
 
 <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccaiosantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api?username=ccaiosantos&show_icons=true&theme=vue-dark" 
 />
 
 
