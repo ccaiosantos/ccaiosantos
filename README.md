@@ -58,7 +58,7 @@ Me chamo Caio Gabriel Medeiros dos Santos, tenho 19 anos e sou natural de Recife
     title="Spring Boot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" 
 />
 
 <img 
