@@ -7,7 +7,7 @@ Me chamo Caio Gabriel Medeiros dos Santos, tenho 19 anos e sou natural de Recife
             src="https://custom-icon-badges.demolab.com/badge/Instagram-Follow-%23E1306C?logo=instagram&logoColor=white&style=for-the-badge"
         />
     </a>
-    <a href="www.linkedin.com/in/caio-medeiros-6617b0280">
+    <a href="www.linkedin.com/in/caio-medeiros-ccaiosantos">
         <img
             alt="LinkedIn"
             title="Conecte-se comigo no LinkedIn"
@@ -94,15 +94,11 @@ Me chamo Caio Gabriel Medeiros dos Santos, tenho 19 anos e sou natural de Recife
 
 ### 📊 Estatísticas
 
-<p>
- <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ccaiosantos&show_icons=true&theme=vue-dark" 
-/>
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ccaiosantos&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccaiosantos&layout=compact&theme=tokyonight)
+</div>
 <img 
     align="left" 
     alt="GitHub Stats" 
