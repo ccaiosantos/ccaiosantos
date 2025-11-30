@@ -94,16 +94,18 @@ Me chamo Caio Gabriel Medeiros dos Santos, tenho 19 anos e sou natural de Recife
 
 ### 📊 Estatísticas
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ccaiosantos&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccaiosantos&layout=compact&theme=tokyonight)
-</div>
 <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=ccaiosantos&show_icons=true&theme=vue-dark" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccaiosantos&layout=compact&theme=transparent" 
+/>
+
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=ccaiosantos&show_icons=true&theme=transparent" 
 />
 
 
