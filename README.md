@@ -88,6 +88,15 @@ Me chamo Caio Gabriel Medeiros dos Santos, tenho 19 anos e sou natural de Recife
     src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" 
 />
 
+*<img 
+    align="left" 
+    alt="Docker" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.stackhero.io/assets/src/images/servicesLogos/openGraphVersions/docker.png?d87f4381" 
+/>**
+
 
 <br/>
 <br/>
