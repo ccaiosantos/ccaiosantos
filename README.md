@@ -1,4 +1,4 @@
-## Olá, sou Caio Gabriel 👋##
+## Olá, sou Caio Gabriel 👋
 
 - 🔭 Hoje trabalho como estagiário em TI, atuando na área de suporte e software
 - 🌱 Estudando Java com Spring Boot, Docker, SQL e React
