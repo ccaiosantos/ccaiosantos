@@ -1,6 +1,7 @@
-Olá, sou Caio Gabriel
-🔭 Hoje trabalho como estagiário em TI, atuando na área de suporte e software
-🌱 Estudando Java com Spring Boot, Docker, SQL e React
+## Olá, sou Caio Gabriel 👋##
+
+- 🔭 Hoje trabalho como estagiário em TI, atuando na área de suporte e software
+- 🌱 Estudando Java com Spring Boot, Docker, SQL e React
 
 Tenho 19 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computação na Uninassau, onde desenvolvo minhas habilidades na área de tecnologia, análise de sistemas e desenvolvimento de software. Sou apaixonado por tecnologia, sempre buscando aprender mais e acompanhar as tendências do mercado. Tenho grande interesse por programação, banco de dados, segurança da informação e criação de projetos que solucionem problemas reais. Gosto de estudar de forma constante, desenvolver projetos pessoais e aprimorar minhas competências para crescer na área de TI e construir uma carreira sólida no futuro.
 <p align="left">
