@@ -63,7 +63,7 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
     title="Spring Boot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/spring-boot-icon.png)" 
+    src="https://vectorseek.com/wp-content/uploads/2023/09/Spring-Boot-Logo-Vector.svg-.png" 
 />
 
 <img 
