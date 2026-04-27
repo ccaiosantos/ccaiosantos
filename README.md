@@ -63,7 +63,8 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
     title="Spring Boot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://vectorseek.com/wp-content/uploads/2023/09/Spring-Boot-Logo-Vector.svg-.png" 
+    src="<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7677311b-d1a5-4afb-992d-7f019191441f" />
+" 
 />
 
 <img 
@@ -99,7 +100,7 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
     title="Salesforce"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/salesforce-icon.png)" 
+    src="https://vectorseek.com/wp-content/uploads/2023/08/Salesforce-White-Logo-Vector.svg-.png" 
 />
 
 />
@@ -110,7 +111,7 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
     title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[[https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/salesforce-icon.png)](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png)" 
+    src="https://vectorseek.com/wp-content/uploads/2023/09/Docker-Inc.-Logo-Vector.svg-.png" 
 />
 
 <br/>
