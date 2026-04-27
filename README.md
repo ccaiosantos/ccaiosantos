@@ -39,18 +39,18 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/17f77fa4-9d2e-4865-bf9d-1c219959f200" />
+<img align="left"  width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/17f77fa4-9d2e-4865-bf9d-1c219959f200" />
 
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b777d771-a562-41d1-b839-bfc09572b88d" />
-
-
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/530a3383-3f45-4bf6-993f-5e3abab6ae8f" />
+<img align="left"  width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b777d771-a562-41d1-b839-bfc09572b88d" />
 
 
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/39e50da2-8ba7-4172-9622-83ffa1fa9d79" />
+<img align="left"  width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/530a3383-3f45-4bf6-993f-5e3abab6ae8f" />
 
 
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/49eb2f0e-db75-4c88-bf7e-8bea9369c5f9" />
+<img align="left"  width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/39e50da2-8ba7-4172-9622-83ffa1fa9d79" />
+
+
+<img align="left"  width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/49eb2f0e-db75-4c88-bf7e-8bea9369c5f9" />
 
 
 <img 
@@ -62,7 +62,7 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
     src="https://vectorseek.com/wp-content/uploads/2023/08/Salesforce-White-Logo-Vector.svg-.png" 
 />
 
-<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/a879d353-d8c9-43c7-9571-531055e9b76f" />
+<img align="left"  width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/a879d353-d8c9-43c7-9571-531055e9b76f" />
  
 
 <br/>
