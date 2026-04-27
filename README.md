@@ -63,8 +63,7 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
     title="Spring Boot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7677311b-d1a5-4afb-992d-7f019191441f" />
-" 
+    src="https://image.pngaaa.com/706/6302706-middle.png" 
 />
 
 <img 
