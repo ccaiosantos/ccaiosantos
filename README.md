@@ -24,22 +24,12 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/2f4f56d3-7c9d-4e34-80c4-852653a68e24" />
+
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/78760dd3-a1fb-49a4-b04b-a77ccdd3939c" />
+
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/9210d0ae-9aba-47a3-8a5d-3f3a9c66bc4a" />
+
 
 <img 
     align="left" 
@@ -49,55 +39,25 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring Boot" 
-    title="Spring Boot"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://image.pngaaa.com/706/6302706-middle.png" 
-/>
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/17f77fa4-9d2e-4865-bf9d-1c219959f200" />
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/b777d771-a562-41d1-b839-bfc09572b88d" />
 
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" 
-/>
 
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" 
-/>
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/530a3383-3f45-4bf6-993f-5e3abab6ae8f" />
+
+
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/39e50da2-8ba7-4172-9622-83ffa1fa9d79" />
+
+
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/49eb2f0e-db75-4c88-bf7e-8bea9369c5f9" />
+
 
 <img 
     align="left" 
     alt="Salesforce" 
     title="Salesforce"
-    width="30px" 
+    width="80" height="80" 
     style="padding-right: 10px;" 
     src="https://vectorseek.com/wp-content/uploads/2023/08/Salesforce-White-Logo-Vector.svg-.png" 
 />
