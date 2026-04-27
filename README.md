@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho como estagiário em TI, atuando na área de suporte e software
 - 🌱 Estudando Java com Spring Boot, Docker, SQL e React
 
-Tenho 19 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computação na Uninassau, onde desenvolvo minhas habilidades na área de tecnologia, análise de sistemas e desenvolvimento de software. Sou apaixonado por tecnologia, sempre buscando aprender mais e acompanhar as tendências do mercado. Tenho grande interesse por programação, banco de dados, segurança da informação e criação de projetos que solucionem problemas reais. Gosto de estudar de forma constante, desenvolver projetos pessoais e aprimorar minhas competências para crescer na área de TI e construir uma carreira sólida no futuro.
+Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computação na Uninassau, onde desenvolvo minhas habilidades na área de tecnologia, análise de sistemas e desenvolvimento de software. Sou apaixonado por tecnologia, sempre buscando aprender mais e acompanhar as tendências do mercado. Tenho grande interesse por programação, banco de dados, segurança da informação e criação de projetos que solucionem problemas reais. Gosto de estudar de forma constante, desenvolver projetos pessoais e aprimorar minhas competências para crescer na área de TI e construir uma carreira sólida no futuro.
 <p align="left">
     <a href="https://www.instagram.com/c_caiosantos/?next=%2F">
         <img
@@ -63,7 +63,7 @@ Tenho 19 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
     title="Spring Boot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" 
+    src="[https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/spring-boot-icon.png)" 
 />
 
 <img 
@@ -93,15 +93,25 @@ Tenho 19 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
     src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" 
 />
 
-*<img 
+<img 
     align="left" 
-    alt="Docker" 
-    title="Figma"
+    alt="Salesforce" 
+    title="Salesforce"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.stackhero.io/assets/src/images/servicesLogos/openGraphVersions/docker.png?d87f4381" 
-/>**
+    src="[https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/salesforce-icon.png)" 
+/>
 
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[[https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/salesforce-icon.png)](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png)" 
+/>
 
 <br/>
 <br/>
