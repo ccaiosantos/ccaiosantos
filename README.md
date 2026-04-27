@@ -109,7 +109,7 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
     title="Docker"
     width="30px" 
     style="padding-right: 20px;" 
-    src="https://vectorseek.com/wp-content/uploads/2023/09/Docker-Inc.-Logo-Vector.svg-.png" 
+    src="[https://vectorseek.com/wp-content/uploads/2023/09/Docker-Inc.-Logo-Vector.svg-.png](https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg)" 
 />
 
 <br/>
