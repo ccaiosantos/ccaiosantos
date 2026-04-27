@@ -24,18 +24,18 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
 
 ### 🤖 Linguagens e Tecnologias
 
-<img align="left"  width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/2f4f56d3-7c9d-4e34-80c4-852653a68e24" />
+<img align="left"  width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2f4f56d3-7c9d-4e34-80c4-852653a68e24" />
 
-<img align="left"  width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/78760dd3-a1fb-49a4-b04b-a77ccdd3939c" />
+<img align="left"  width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/78760dd3-a1fb-49a4-b04b-a77ccdd3939c" />
 
-<img align="left"  width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/9210d0ae-9aba-47a3-8a5d-3f3a9c66bc4a" />
+<img align="left"  width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9210d0ae-9aba-47a3-8a5d-3f3a9c66bc4a" />
 
 
 <img 
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
