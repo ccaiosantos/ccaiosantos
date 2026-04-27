@@ -24,11 +24,11 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
 
 ### 🤖 Linguagens e Tecnologias
 
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/2f4f56d3-7c9d-4e34-80c4-852653a68e24" />
+<img align="left"  width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/2f4f56d3-7c9d-4e34-80c4-852653a68e24" />
 
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/78760dd3-a1fb-49a4-b04b-a77ccdd3939c" />
+<img align="left"  width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/78760dd3-a1fb-49a4-b04b-a77ccdd3939c" />
 
-<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/9210d0ae-9aba-47a3-8a5d-3f3a9c66bc4a" />
+<img align="left"  width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/9210d0ae-9aba-47a3-8a5d-3f3a9c66bc4a" />
 
 
 <img 
