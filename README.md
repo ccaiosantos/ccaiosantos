@@ -102,7 +102,6 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
     src="https://vectorseek.com/wp-content/uploads/2023/08/Salesforce-White-Logo-Vector.svg-.png" 
 />
 
-/>
 
 <img 
     align="left" 
