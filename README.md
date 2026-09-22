@@ -78,22 +78,6 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
 <div align="center">
 
 <img
-    alt="Top Langs"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccaiosantos&layout=compact&theme=dark&langs_count=6"
-/>
-
-<img
-    alt="GitHub Stats"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=ccaiosantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-/>
-
-</div>
-
-<div align="center">
-
-<img
     alt="GitHub Streak"
     src="https://streak-stats.demolab.com/?user=ccaiosantos&theme=dark&hide_border=false&locale=pt_BR"
 />
