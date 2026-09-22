@@ -4,6 +4,7 @@
 - 🌱 Estudando Java com Spring Boot, Docker, SQL e React
 
 Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computação na Uninassau, onde desenvolvo minhas habilidades na área de tecnologia, análise de sistemas e desenvolvimento de software. Sou apaixonado por tecnologia, sempre buscando aprender mais e acompanhar as tendências do mercado. Tenho grande interesse por programação, banco de dados, segurança da informação e criação de projetos que solucionem problemas reais. Gosto de estudar de forma constante, desenvolver projetos pessoais e aprimorar minhas competências para crescer na área de TI e construir uma carreira sólida no futuro.
+
 <p align="left">
     <a href="https://www.instagram.com/c_caiosantos/?next=%2F">
         <img
@@ -12,7 +13,7 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
             src="https://custom-icon-badges.demolab.com/badge/Instagram-Follow-%23E1306C?logo=instagram&logoColor=white&style=for-the-badge"
         />
     </a>
-    <a href="www.linkedin.com/in/caio-medeiros-ccaiosantos">
+    <a href="https://www.linkedin.com/in/caio-medeiros-ccaiosantos">
         <img
             alt="LinkedIn"
             title="Conecte-se comigo no LinkedIn"
@@ -30,7 +31,6 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
 
 <img align="left"  width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9210d0ae-9aba-47a3-8a5d-3f3a9c66bc4a" />
 
-
 <img 
     align="left" 
     alt="Git" 
@@ -39,19 +39,16 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img align="left"  width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/17f77fa4-9d2e-4865-bf9d-1c219959f200" />
 
 <img align="left"  width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b777d771-a562-41d1-b839-bfc09572b88d" />
 
-
 <img align="left"  width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/530a3383-3f45-4bf6-993f-5e3abab6ae8f" />
-
 
 <img align="left"  width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/39e50da2-8ba7-4172-9622-83ffa1fa9d79" />
 
-
 <img align="left"  width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/49eb2f0e-db75-4c88-bf7e-8bea9369c5f9" />
-
 
 <img 
     align="left" 
@@ -63,7 +60,15 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
 />
 
 <img align="left"  width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a879d353-d8c9-43c7-9571-531055e9b76f" />
- 
+
+<img
+    align="left"
+    alt="React"
+    title="React"
+    width="50"
+    height="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
 
 <br/>
 <br/>
@@ -84,5 +89,16 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
     src="https://github-readme-stats.vercel.app/api?username=ccaiosantos&show_icons=true&theme=transparent" 
 />
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ccaiosantos&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)](https://git.io/streak-stats)
 
 </p>
