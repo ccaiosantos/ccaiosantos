@@ -75,30 +75,24 @@ Tenho 20 anos e sou natural de Recife-PE. Atualmente curso Ciência da Computaç
 
 ### 📊 Estatísticas
 
+<div align="center">
+
 <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccaiosantos&layout=compact&theme=transparent" 
 />
 
 <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=ccaiosantos&show_icons=true&theme=transparent" 
 />
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ccaiosantos&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)](https://git.io/streak-stats)
+<div align="center">
 
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ccaiosantos&theme=transparent&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
